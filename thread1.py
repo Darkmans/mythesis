@@ -1,3 +1,8 @@
+"""
+author: Liaofan
+GitHub: https://github.com/Darkmans
+blog  : http://www.fanfanblog.cn | https://www.cnblogs.com/importthis
+"""
 import re
 import time
 import urllib.error
